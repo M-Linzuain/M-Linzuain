@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hola, soy Máximo Linzuain 👋
 
-<!--
-**M-Linzuain/M-Linzuain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la **Tecnicatura Universitaria en Ciencia de Datos e Inteligencia Artificial** (Universidad del Gran Rosario) enfocado en el análisis estadístico, modelado predictivo y desarrollo de soluciones basadas en datos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Tecnológico
+
+* **Lenguajes y Bases de Datos:** Python, SQL
+* **Ciencia de Datos & Machine Learning:** Pandas, NumPy, Scikit-Learn
+* **Visualización y BI:** Matplotlib, Seaborn, Power BI, Tableau, Excel
+* **Entornos y Control de Versiones:** Git, GitHub, VS Code, Google Colab, Streamlit
+
+---
+
+### 📊 Proyectos Destacados
+
+* **[Predicción de Rendimiento Agrícola en Argentina](https://github.com/M-Linzuain/Prediccion-Rendimiento-Agricola-ARG)** *(En construcción)* — Análisis exploratorio y modelado predictivo sobre campañas agrícolas utilizando datos históricos oficiales.
+
+---
+
+### 📫 Contacto
+
+* **LinkedIn:** (https://www.linkedin.com/in/maximo-linzuain/) 
+* **Ubicación:** Rosario, Santa Fe, Argentina 🇦🇷
