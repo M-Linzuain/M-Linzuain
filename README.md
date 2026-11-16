@@ -6,7 +6,7 @@ Estudiante de la **Tecnicatura Universitaria en Ciencia de Datos e Inteligencia 
 
 ### 🛠️ Stack Tecnológico
 
-* **Lenguajes y Bases de Datos:** Python, SQL
+* **Lenguajes y Bases de Datos:** Python, SQL, Excel
 * **Ciencia de Datos & Machine Learning:** Pandas, NumPy, Scikit-Learn
 * **Visualización y BI:** Matplotlib, Seaborn, Power BI, Tableau, Excel
 * **Entornos y Control de Versiones:** Git, GitHub, VS Code, Google Colab, Streamlit
