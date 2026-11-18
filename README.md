@@ -15,7 +15,7 @@ Estudiante de la **Tecnicatura Universitaria en Ciencia de Datos e Inteligencia 
 
 ### 📊 Proyectos Destacados
 
-* **[Predicción de Rendimiento Agrícola en Argentina](https://github.com/M-Linzuain/Prediccion-Rendimiento-Agricola-ARG)** *(En construcción)* — Análisis exploratorio y modelado predictivo sobre campañas agrícolas utilizando datos históricos oficiales.
+* **[Predicción de Rendimiento Agrícola en Argentina](https://github.com/M-Linzuain/Prediccion-Rendimiento-Agricola-ARG)** — Análisis exploratorio y modelado predictivo sobre campañas agrícolas utilizando datos históricos oficiales.
 
 ---
 
